@@ -19,7 +19,7 @@ project-name
 │   ├── milestone-1-report.pdf
 │   ├── milestone-2-report.pdf
 │   └── final-report.pdf
-├── models
+|
 ├── requirements.txt
 └── README.md
 ```
